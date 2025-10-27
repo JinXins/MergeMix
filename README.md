@@ -22,6 +22,7 @@
 
 ## 📆 News  
 **[2025/10/28]** We release the MergeMix code on LLaVA codebase.
+
 **[2025/10/14]** We've updated our method on [**openmixup**](https://github.com/Westlake-AI/openmixup).
 
 
