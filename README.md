@@ -138,6 +138,14 @@ You need to find the `config.json` of the checkpoints, and add the parameters:
 ## 🤗 Citation
 **If you feel that our work has contributed to your research, please consider cite it, and please don`t forget to cite OpenMixup if you use this project.**  
 ```markdown
+
+@article{jin2025mergemix,
+      title={MergeMix: A Unified Augmentation Paradigm for Visual and Multi-Modal Understanding}, 
+      author={Xin Jin and Siyuan Li and Siyong Jian and Kai Yu and Huan Wang},
+      journal={arXiv},
+      year={2025},
+}
+
 @article{li2022openmixup,
   title = {OpenMixup: A Comprehensive Mixup Benchmark for Visual Classification},
   author = {Siyuan Li and Zedong Wang and Zicheng Liu and Di Wu and Cheng Tan and Stan Z. Li},
