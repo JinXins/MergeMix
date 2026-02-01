@@ -1,11 +1,9 @@
 <div align="center">
-<h2><a href="https://arxiv.org/abs/2312.11954">MergeMix: A Unified Augmentation Paradigm for Visual and Multi-Modal Understanding</a></h2>
+<h2><a href="https://arxiv.org/abs/2510.23479">MergeMix: A Unified Augmentation Paradigm for Visual and Multi-Modal Understanding</a></h2>
 
 [Xin Jin](https://scholar.google.com/citations?user=v3OwxWIAAAAJ&hl=zh-CN)<sup>1,\*</sup>, [Siyuan Li](https://scholar.google.com/citations?user=SKTQTXwAAAAJ&hl=zh-CN)<sup>1,2,\*</sup>, [Siyong Jian](https://scholar.google.com/citations?user=BodnjL0AAAAJ&hl=zh-CN&oi=ao)<sup>1</sup>, [Kai Yu](https://openreview.net/profile?id=~Kai_Yu12)<sup>1</sup>, [Huan Wang](https://scholar.google.com/citations?user=0-On0y4AAAAJ&hl=zh-CN)<sup>1,†</sup>,
 
-<sup>1</sup>[Westlake University](https://www.westlake.edu.cn/)
-
-<sup>2</sup>[Zhejiang University, College of Computer Science and Technology](http://www.cs.zju.edu.cn/)
+<sup>1</sup>[Westlake University](https://www.westlake.edu.cn/), <sup>2</sup>[Zhejiang University](http://www.cs.zju.edu.cn/)
 
 <sup>*</sup> Equal Contribution <sup>†</sup> Corresponding Author
 </div>
@@ -21,6 +19,8 @@
 
 
 ## 📆 News  
+**[2025/11/26]** 🎉 Accepted by ICLR 2026!
+
 **[2025/10/28]** We release the MergeMix code on LLaVA codebase.
 
 **[2025/10/14]** We've updated our method on [**openmixup**](https://github.com/Westlake-AI/openmixup).
