@@ -19,7 +19,7 @@
 
 
 ## 📆 News  
-**[2025/11/26]** 🎉 Accepted by ICLR 2026!
+**[2025/01/26]** 🎉 Accepted by ICLR 2026!
 
 **[2025/10/28]** We release the MergeMix code on LLaVA codebase.
 
